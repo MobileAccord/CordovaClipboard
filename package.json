@@ -15,7 +15,7 @@
     "url": "git+https://github.com/MobileAccord/CordovaClipboard.git"
   },
   "keywords": [
-    "clipboard"
+    "clipboard",
     "copy",
     "paste",
     "ecosystem:cordova",
